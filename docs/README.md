@@ -1,7 +1,7 @@
 
 ## A
 
-### Account Contraction
+### Account Contraction 
 * When the revenue of a customer account shrinks to a lesser amount. Reasons may vary, but for example, the removal of some user licenses could be a reason for losing a portion of revenue from a particular account.
 ### Account Executive (AE)
 * Commonly used as a job title for sales representatives in technology and SaaS businesses. These individuals are typically responsible for the business/financial relationship between their company and customers.
